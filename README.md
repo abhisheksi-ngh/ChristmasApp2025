@@ -22,12 +22,7 @@ This is a simple Tkinter-based application to send festive greetings. It include
    ```bash
    git clone https://github.com/<your-username>/ChristmasApp2025.git
 2. Install required dependencies
- ```bash
    pip install -r requirements.txt
 3. Run the application
-python app.py
+   python app.py
 
-
-   
-4. 
-5. 
